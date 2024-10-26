@@ -1,0 +1,18 @@
+.row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 30px;
+    margin: 10px;
+  }
+  
+  h3 {
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  p {
+    font-size: 17px;
+    font-family: arial;
+  }
+  
